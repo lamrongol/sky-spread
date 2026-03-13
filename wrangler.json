@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "sky-spread",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "9ae3c52e-c2e3-4870-a23c-6c83166e7aca",
+			"database_name": "repost-database"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
